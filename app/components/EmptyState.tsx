@@ -21,7 +21,7 @@ const EmptyState = () => {
           font-semibold
           text-gray-900
           "
-        >Select a chat or start a new conversation</h3>
+        >🎉 Hurrah! You have successfully Logged in</h3>
       </div>
     </div>
   );
